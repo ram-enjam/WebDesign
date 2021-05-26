@@ -1,0 +1,64 @@
+12 may
+1. Pop Form Mobile responsive part.
+2. Aligned content and Css in product page and mobile Responsive part done.
+3. Aligned content and Css in about page and mobile responsive part done.
+4. Common Form aligned and mobile responsive done.
+
+13 may
+1. Service page added new images.
+2. Aligned content and Css in Technology page and mobile Responsive part done.
+3. Aligned content and Css in career page and mobile responsive part done.
+
+15 may
+1. Updated Ymts website to test.
+2. Taken KT from Manoj sir on benzin print page design.
+3. Completed the designs for benzin print page.
+
+17 may
+
+1. Tested YMTS website mobile responsive and noted all bugs and fixed some major bugs.
+2. Taken KT from Shrawani for takeoff crm.
+3. Taken updated code and started working on takeoff crm designs.
+4. Bc Team Member Dashboard design and alignments done.
+
+18 may
+1. Worked on takeoff crm designs.
+2. Dashboard alignments and icon changes.
+3. Desktop version for Student project on html bootstrap design.
+
+19 may
+
+1. Worked on student project and completed responsive part.
+2. Given Assist to student and explained the code and did some changes on students requirements.
+
+20 may
+1. Worked on dashboard icons and design.
+2. Changes in Navbar icon and alignments
+3. Changed Enquiry page design and aligned all static data designs.
+4. Alignments in All Enquiries Page.
+
+21 may
+1. Worked on Bc Team member Report page designs and alignments.
+2. Report inner Detail Page designs and alignments
+3. BC Admin Panel navbar designs and icon changes.
+
+24 may
+1. Worked on takeoff crm BC Admin panel dashboard designs and alignments
+2. user creation page designs and alignments.
+3. Add college page designs and alignments.
+4. Departments page designs.
+5. Dept Domains page designs.
+6. Source page designs.
+7. Deliverables page designs.
+8. Categories page designs.
+9. Services page designs.
+10. Qualifications page designs.
+11. specialization page designs.
+12. domain page designs.
+13. ticket raise page designs.
+14. Developer type page designs.
+
+25 may
+1. Enquiry Report, BC Report, Payment, Business Report and All Enquiries page designs.
+2. Taken KT from pushpa for Benzin-CRM.
+3. Converting Benzin-CRM Angular to Codeigniter.
