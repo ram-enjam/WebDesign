@@ -1,3 +1,8 @@
+<li class="email-address" style="">
+<a href="https://forms.gle/FDeKzmD77VN1CuDr8" target="_blank"><span class="text1 color">click here to register to <br> National Level Online Competition</span>
+</a>
+</li>
+
 .color {
     animation: Color 4s linear infinite;
     -webkit-animation: Color 4s ease-in-out infinite;
