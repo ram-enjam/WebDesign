@@ -1,91 +1,29 @@
-<li class="email-address" style="">
-<a href="https://forms.gle/FDeKzmD77VN1CuDr8" target="_blank"><span class="text1 color">click here to register to <br> National Level Online Competition</span>
-</a>
-</li>
+25 may
+1. Taken KT from pushpa for Benzin-CRM.
+2. Converting Benzin-CRM Angular to Codeigniter.
 
-.color {
-    animation: Color 4s linear infinite;
-    -webkit-animation: Color 4s ease-in-out infinite;
-}
+26 may
+# Bug fixation in benzin crm angular.
+# Converted Benzin crm to web framework.
+# worked on Login Page design in benzin crm.
 
+27 may
+# Working on benzin crm designs.
+# Admin dashboard design.
+# Bunk details page design.
 
-@keyframes Color{
-  0%{
-    color:#A0D468;
-  }
-  
-  20%{
-    color:#4FC1E9;
-  }
-  
-  40%{
-    color:#FFCE54;
-  }
-  
-  60%{
-    color:#FC6E51;
-  }
-  
-  80%{
-    color:#ED5565;
-  }
-  
-  100%{
-    color:#AC92EC;
-  }
-}
+28 may
+# added link with animation in header for DPS Tirupati website.
+# Did mobile responsive and alignments in dps website.
+# Worked on Benzin crm Dashboard designs.
+# added table in dashboard
+# added services page design in benzin crm.
 
-@-moz-keyframes Color{
-  0%{
-    color:#A0D468;
-  }
-  
-  20%{
-    color:#4FC1E9;
-  }
-  
-  40%{
-    color:#FFCE54;
-  }
-  
-  60%{
-    color:#FC6E51;
-  }
-  
-  80%{
-    color:#ED5565;
-  }
-  
-  100%{
-    color:#AC92EC;
-  }
-}
-
-@-webkit-keyframes Color{
-  0%{
-    color:#A0D468;
-  }
-  
-  20%{
-    color:#4FC1E9;
-  }
-  
-  40%{
-    color:#FFCE54;
-  }
-  
-  60%{
-    color:#FC6E51;
-  }
-  
-  80%{
-    color:#ED5565;
-  }
-  
-  100%{
-    color:#AC92EC;
-  }
-}
+29 may
+# Added add bunk form in navbar.
+# added registration form.
+# added installation table in dashboard.
+# added adress, contact, installation forms.
 
 
 12 may
