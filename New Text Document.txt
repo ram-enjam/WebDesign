@@ -1,0 +1,68 @@
+Credit customer app:
+1.	Slip assign 
+2.	Pending amount
+3.	Remainders
+4.	Statement details
+5.	Vehicle wise reports
+6.	Payments
+7.	Limts
+
+
+DSM app:
+1.	Quick credit sale entry
+2.	Avoid issues in shortages , collections and closing readings
+3.	Increase transactional communication in better way between Owner and employess
+4.	Decrease operational time and save valuable time of supervisor in data entry
+5.	Transparent reporting system
+6.	Timely sale and transitions update to Owner
+7.	 Reporting  flexibility  and reduce reporting time
+
+
+Manager app:
+1.	Check the receivables and payables on time 
+2.	Day business transactions and closing the shift perfectly with s/w validation
+3.	Check collections and shortages employee wise & shift wise. Generate report employee wise
+4.	Avoid manual calculation and writing books time
+5.	Transparent communications
+6.	Sale and purchase track along with inventories
+7.	Recording and reporting of accounts to auditor and owner flexibly and accurately.
+
+Dealer app:
+1.	Control data access by providing permission through app on user request
+2.	Day business transactions (bank , cash and credit ) track lively
+3.	Employee attendance and collection shortages monitors
+4.	Inventory positions (Purchase , sale & stock ) timely update
+5.	Collectables from credit parties  and payables to vendors track
+6.	Bank transitions (Deposites and withdraws)
+7.	Remainders update.
+
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+faq's page
+
+
+Service & Trainings
+Features	Remarks			
+Training of guards	Lifetime training of guards anytime and any number of times			
+On ground support, service and training	Team of 500 across India for on ground service, account management for both physical training, support for both Association members and residents			
+Lifetime customer support over calls, emails and messages	Dedicated Relationship Manager for 24/7 response, query resolution etc for both residents and MC members			
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Security page
+
+Features	Remarks
+	
+Storage	Data is stored in Dedicated server  in virtual private cloud
+Backup	Continues hourly backup and Option for user to take backup at anytime.   
+	
+Security	Encryption is used throughout the application for data in motion (SSL) . Benzinsoft  application and data servers do not use public accessible address or IP.  
+	
+Legal	(1) Company signs an NDA with all employees regarding protection and non sharing of data. (2) Company is governed by explicit privacy policy posted on website
+	
+Penetration Testing	Tested by ethical hackers for security
+Disaster Recovery	Data backup taken to prevent data losses
+
+
+
