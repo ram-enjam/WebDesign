@@ -1,4 +1,40 @@
-25 may
+9 june
+Today's work status:
+# taken latest code of benzinsoft.
+# taken requirements for benzinsoft website.
+# worked on demo popup form designs.
+# added 22 features design in feature page.
+
+10 june
+
+Today's work status:
+# added content in home page benefits components.
+# added testimonials in about page.
+# new designs in features page.
+# added tables in security and faq pages.
+
+11 june
+
+Today's work status:
+# modified home page benefits layout.
+# new design for all features layout in feature page.
+# modified designs in feature page.
+# tables design modified in security and faq pages.
+
+14 june
+
+Today's work status:
+# design modifications in features page.
+# added spotlight gallery feature for testimonials in about page.
+# small small alignments in all pages..
+
+15 june
+
+Today's work status:
+# added scripts for all 22 features and aligned content.
+# added new show more button design for daily activities.
+
+5 may
 1. Taken KT from pushpa for Benzin-CRM.
 2. Converting Benzin-CRM Angular to Codeigniter.
 
